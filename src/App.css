@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  border: solid solid navy;
+  background-image: url("https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80");
+  /* background: var(--clr-bg); */
+  height: 100vh;
+  /* color: var(--clr-neon); */
+}
+
+.App {
+  text-align: center;
+}
+
+.Img {
+  border: solid blue;
+  border-radius: 32px;
+  height: 120px;
+  width: 120px;
+}
+
+img {
+  /* object-fit: fill; */
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+
+.aboutMe {
+  /* border: solid blue; */
+  font-family: "Kaushan Script", cursive;
+  font-weight: bold;
+  text-align: left;
+  height: 110px;
+  margin: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 25px rgb(255, 119, 0), inset 0px 0px 25px rgb(255, 119, 0);
+  color: aqua;
+  background-color: black;
+}
+
+.footer {
+  border: solid green;
+  height: 220px;
+  overflow-y: scroll;
+  box-shadow: 0px 0px 25px rgb(255, 119, 0), inset 0px 0px 25px rgb(255, 119, 0);
+  margin: 0;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.phoneImg {
+  height: 30px;
+}
+
+.phonewrapper , .emailwrapper{
+  display: flex;
+  /* justify-content: center; */
+  width: 100%;
+  height: 40px;
+  /* border: solid red; */
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  
+}
+
+
+.cntInfoWrapp {
+  /* display: flex; */
+  width: 100%;
+  height: 300px;
+  /* justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border: solid green; */
+
+}
+
+.phone {
+  margin-right: auto;
+  margin-left: auto;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  margin-top: 15px;
+  /* border: solid gold; */
+
+}
+.contactlistPhoneImg {
+  width: 10%;
+  height: 50%;
+  display: flex;  
+  justify-content: left;
+  /* margin-right: 20px; */
+  /* border: solid pink; */
+  /* align-items: center; */
+}
+.contactlistEmailImg {
+  width: 10%;
+  /* border: solid purple; */
+  height: 50%;
+  display: flex;  
+  /* justify-content: left; */
+  /* margin-right: 20px; */
+  /* align-items: center; */
+}
+
+.txt {
+  text-align: left;
+  /* border: solid red; */
+}
+
+.ContactInfo {
+  width: 100%;
+  /* height: 200px; */
+}
+
+.nav {
+  /* border: solid red; */
+  display: flex;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-evenly;
+}
+
+.technology {
+  width: 150px;
+  height: 32px;
+  border: solid firebrick;
+  border-radius: 28px;
+  padding: 2px;
+  cursor: pointer;
+  box-shadow: 0px 5px 25px yellowgreen, inset 0px 5px 25px yellowgreen;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  margin-top: 15px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.technology:hover {
+  background-color: navy;
+  /* width: 150px;
+  height: 32px;
+  border: solid firebrick;
+  border-radius: 28px;
+  padding: 2px;
+  cursor: pointer;
+  box-shadow: 0px 5px 25px yellowgreen, inset 0px 5px 25px yellowgreen;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  margin-top: 15px; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.qtxt {
+  color: lightblue;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.author {
+  font-weight: bolder;
+}
+
+.techwrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tkimg {
+  height: 50px;
+  width: 50px;
+  border: solid red;
+}
+
+
+
