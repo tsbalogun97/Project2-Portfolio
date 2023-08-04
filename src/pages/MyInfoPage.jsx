@@ -7,7 +7,7 @@ function MyInfoPage() {
   return (
     <div>
       <img src={mypicture} alt="" className="Img" />
-      {/* <object data={Resume} type="application/pdf"></object> */}
+      
       <div>
       
         

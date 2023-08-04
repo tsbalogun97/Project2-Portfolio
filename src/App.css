@@ -175,14 +175,30 @@ img {
 
 .techwrapper {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   align-items: center;
+  justify-content: space-between;
 }
 
 .tkimg {
-  height: 50px;
-  width: 50px;
-  border: solid red;
+  height: 100px;
+  width: 100px;
+  border: double 5px red;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.rWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.resuP {
+  height: 100px;
+  width: 100px;
+  border: double 5px red;
+  margin-top: 16px;
+  margin-bottom: 16px;
 }
 
 
