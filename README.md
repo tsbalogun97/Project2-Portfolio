@@ -48,8 +48,8 @@ This website helped how to utilize Marquee tag in my Porfolio https://way2tutori
 <hr>
 
 <h3>MY STRUGGLES</h3>
-<li>I struggled alot with typos which meant errors popping up on my page and haven't to pinpoint exactly where was hell.</li>
-<li>I also had an issue with having my resume pop up on my resume page. for some reasons, it didn't work.</li>
+<li>I struggled alot with typos which meant errors popping up on my page and having to pinpoint exactly where was hell.</li>
+<li>I also had an issue with my resume pop up on my resume page. for some reasons, it didn't work.</li>
 <li>I also had issues converting my React app to a live webpage for anyone to connect to.</li>
 
 
