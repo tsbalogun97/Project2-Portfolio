@@ -3,6 +3,7 @@
 <h1 align="center">My Portfolio</h1>
 This is a portfolio 
 
+<hr>
 
 <h3>BUILT WITH</h3>
 <p>React libraries using:</p>
@@ -10,6 +11,8 @@ This is a portfolio
 <li>JavaScript</li>
 <li>CSS</li>
 
+
+<hr>
 
 
 <h3>FUTURE UPDATES</h3>
