@@ -4,8 +4,10 @@
 This is a portfolio 
 
 
-<h3>BUILT WITH</h3>
-<li>React.js</li>
+<h3>BUILT WITH REACT LIBRARIES USING</h3>
+<li>Html</li>
+<li>JavaScript</li>
+<li>CSS</li>
 
 
 
