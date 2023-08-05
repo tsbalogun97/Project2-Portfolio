@@ -176,8 +176,8 @@ body {
 }
 
 .resuP {
-  height: 100px;
-  width: 100px;
+  height: auto;
+  width: 100vw;
   border: double 5px red;
   margin-top: 16px;
   margin-bottom: 16px;
