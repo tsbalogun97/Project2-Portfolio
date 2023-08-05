@@ -9,7 +9,7 @@ function ContactInfo() {
         
       <div className="phonewrapper">
         <div className="contactlistPhoneImg">
-          <img className="phoneImg" src={phoneimg} alt="" />
+          <img className="phoneimg" src={phoneimg} alt="" />
         </div>
         <div className="txt">
           <h4>645-890-8978</h4>
