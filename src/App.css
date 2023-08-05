@@ -14,11 +14,12 @@ body {
   text-align: center;
 }
 
-.Img {
-  border: solid blue;
+.myImg {
+  border: solid firebrick;
   border-radius: 32px;
   height: 120px;
   width: 120px;
+  box-shadow: 0px 0px 25px rgb(255, 119, 0), inset 0px 0px 25px rgb(255, 119, 0);
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
@@ -27,6 +28,7 @@ body {
   /* border: solid blue; */
   font-family: "Kaushan Script", cursive;
   font-weight: bold;
+  font-size: 17px;
   text-align: left;
   height: 110px;
   margin: 30px;
