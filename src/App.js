@@ -8,6 +8,7 @@ import { Routes, Route } from 'react-router-dom';
 import Footer from './components/Footer';
 import InfoPageNav from './pages/InfoPageNav';
 import Technology from './pages/Technology';
+import Resume from './pages/Resume';
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <Route path='/contact' element={<ContactInfo/>}/>
       <Route path='/technology' element={<Technology/>}/>
       <Route path='/info' element={<MyInfoPage/>}/>
+      <Route path='/resume' element={<Resume/>}/>
       </Routes>
       <Footer/>
 

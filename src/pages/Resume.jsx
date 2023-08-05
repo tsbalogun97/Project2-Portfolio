@@ -7,10 +7,8 @@ function Resume() {
   
     <div className="rWrapper">
       
+      <object className="resumeE" data={myresume} type="application/pdf" width="100%" height="100%"></object>
       
-      {/* <Document className="resuP" file={myresume}></Document> */}
-
-      <object className="resumE" data={myresume} type="application/pdf"></object>
     </div>
   
   );

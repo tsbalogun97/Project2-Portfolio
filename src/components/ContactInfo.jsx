@@ -12,7 +12,7 @@ function ContactInfo() {
           <img className="phoneimg" src={phoneimg} alt="" />
         </div>
         <div className="txt">
-          <h4>645-890-8978</h4>
+          <h4>347-820-5658</h4>
         </div>
       </div>
       <div className="emailwrapper">
@@ -20,7 +20,7 @@ function ContactInfo() {
         <img className="emailimg" src={emailimg} alt="" />
         </div>
         <div className="txt">
-          <h4>abc@yahoo.com</h4>
+          <h4>tsbalogun97@gmail.com</h4>
         </div>
       </div>
       </div>
