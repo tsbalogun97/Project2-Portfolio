@@ -50,6 +50,11 @@ body {
   font-weight: bold;
 }
 
+.Que {
+ border: double red;
+ width: 300px;
+} 
+
 .phoneImg {
   height: 30px;
 }

@@ -8,9 +8,11 @@ import nodeimg from '../Pictures/node.png'
 import expressimg from '../Pictures/express.png'
 import mongoimg from '../Pictures/mongodb.png'
 import sqlimg from '../Pictures/sql.png'
+import Marquee from '../Pictures/moonwalk.gif'
 
 function Technology() {
   return (
+    <>
     <div className='techwrapper'>
       <img src= {htmlimg} alt="" className="tkimg" />
       <img src= {cssimg} alt="" className="tkimg" />
@@ -21,7 +23,14 @@ function Technology() {
       <img src= {nodeimg} alt="" className="tkimg" />
       <img src= {awsimg} alt="" className="tkimg" />
       <img src= {sqlimg} alt="" className="tkimg" />
+      
     </div>
+      <marquee behavior="scroll" direction="left">
+        <img src= {Marquee} alt="" className='Que'/>
+      </marquee>
+    </>
+      
+
   )
 }
 

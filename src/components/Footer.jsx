@@ -3,6 +3,8 @@ import { useEffect } from "react";
 import axios from "axios";
 import { useState } from "react";
 import footerimg from "../Pictures/footer.jpg";
+import Marquee from "react-fast-marquee";
+
 
 function Footer() {
   let quoteUrl = "https://type.fit/api/quotes";
@@ -40,6 +42,10 @@ function Footer() {
           </div>
         );
       })}
+      <Marquee>
+        <p className="className"></p>
+      </Marquee>
+      
     </div>
   );
 }
