@@ -16,12 +16,10 @@ As I reflect upon graduating from Perscholas Software engineering Bootcamp, I ca
 
 
 <h3>FUTURE UPDATES</h3>
-The game is still developing; meaning more robust features will be added.
-<li>Some of the features will include the actual animation throwing the dart.</li> 
-<li>The toasty character will appear on each side of the screen when both players miss their shots.</li> 
-<li>A timer will be added for each round.</li> 
-<li>Game modes such as easy, hard, and beast mode will be added.</li>
-<li>An option to pick different dart boards to choose from will be implemented.</li> 
+My portfolio is still developing; meaning more robust features will be added:
+<li>I will add more background keyframes to the pages especially in the main page.</li> 
+<li>I will add perhaps an audio playing in the background.</li> 
+
 
 <hr>
 
