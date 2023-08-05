@@ -4,7 +4,8 @@
 This is a portfolio 
 
 
-<h3>BUILT WITH REACT LIBRARIES USING</h3>
+<h3>BUILT WITH</h3>
+<p>React libraries using:</p>
 <li>Html</li>
 <li>JavaScript</li>
 <li>CSS</li>
