@@ -35,7 +35,7 @@ https://github.com/tsbalogun97/tsbalogun97.github.io.git
 <hr>
 
 <h3>CREDITS</h3>
-This is a link to a website that inspired me to make add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
+This is a link to a website that inspired me to  add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
 
 
 This website helped how to utilize Marquee tag in my Porfolio https://way2tutorial.com/html/html_marquee_image.php/
