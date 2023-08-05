@@ -2,7 +2,7 @@ import React from "react";
 import { useEffect } from "react";
 import axios from "axios";
 import { useState } from "react";
-import footerimg from "../Pictures/imgf.jpg";
+import footerimg from "../Pictures/footer.jpg";
 
 function Footer() {
   let quoteUrl = "https://type.fit/api/quotes";

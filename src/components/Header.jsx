@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <div>
-      <h1 className='welcomeInfo'>Welcome to My Page</h1>
+      <h1 className='welcomeInfo'><u>Welcome to My Page</u></h1>
     </div>
   )
 }

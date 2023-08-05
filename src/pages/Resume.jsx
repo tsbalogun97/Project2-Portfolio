@@ -6,7 +6,7 @@ function Resume() {
     <div className="rWrapper">
       <Document className="resuP" file={pdfFile}></Document>
 
-      <object data={pdfFile} type="application/pdf"></object>
+      {/* <object data={pdfFile} type="application/pdf"></object> */}
     </div>
   );
 }
