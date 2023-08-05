@@ -33,7 +33,6 @@ body {
 @import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
 
 .aboutMe {
-  /* border: solid blue; */
   font-family: "Kaushan Script", cursive;
   font-weight: bold;
   font-size: 17px;
@@ -157,10 +156,10 @@ body {
 
 .techwrapper {
   display: flex;
-
   align-items: center;
   justify-content: space-between;
 }
+
 
 .tkimg {
   height: 100px;
@@ -175,10 +174,11 @@ body {
   align-items: center;
 }
 
-.resuP {
+.resumeE {
   height: auto;
   width: 100vw;
   border: double 5px red;
+  overflow-y: scroll;
   margin-top: 16px;
   margin-bottom: 16px;
 }

@@ -8,9 +8,9 @@ function Resume() {
     <div className="rWrapper">
       
       
-      <Document className="resuP" file={myresume}></Document>
+      {/* <Document className="resuP" file={myresume}></Document> */}
 
-      {/* <object data={pdfFile} type="application/pdf"></object> */}
+      <object className="resumE" data={myresume} type="application/pdf"></object>
     </div>
   
   );
