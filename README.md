@@ -35,12 +35,11 @@ https://github.com/tsbalogun97/tsbalogun97.github.io.git
 <hr>
 
 <h3>CREDITS</h3>
-This is a link to a website that inspires me to make this game https://thedartsgame.sourceforge.net/ 
+This is a link to a website that inspired me to make add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
 
 
-I also took some element from the game, [Mortal Kombat 1](https://www.youtube.com/watch?v=JBGpEXbPhms)
+This website helped how to utilize Marquee tag in my Porfolio https://way2tutorial.com/html/html_marquee_image.php/
 
-In addition, I also added a snippet of well known music from the popular game, [Sonic the Hedgehog](https://www.youtube.com/watch?v=Gsa_4s3CjmI) in order to add some flair to the game
 
 <hr>
 
