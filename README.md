@@ -1,6 +1,6 @@
  <!-- explanations of the technologies used, the approach taken, a link to your live site, installation instructions, unsolved problems, -->
 
-<h1 align="center">My Portfolio</h1>
+<h1 align="center"><u>My Portfolio</u></h1>
 As I reflect upon graduating from Perscholas Software engineering Bootcamp, I can't help but feel a sense of accomplishment and pride. My journey through this rigorous bootcamp has not been without trials and tribulations. However, I feel that my growth as an individual and student is a direct result of these experiences. The entries I have chosen to include in my portfolio not only demonstrates how much work I've put in over the course of the training, but also how much I’ve fine-tuned my skills-set in programming.
 
 <hr>
