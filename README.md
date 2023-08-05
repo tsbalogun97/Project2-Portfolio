@@ -11,6 +11,7 @@ As I reflect upon graduating from Perscholas Software engineering Bootcamp, I ca
 <li>JavaScript</li>
 <li>CSS</li>
 
+<h3></h3>
 
 <hr>
 
@@ -43,7 +44,9 @@ This website helped how to utilize Marquee tag in my Porfolio https://way2tutori
 
 <hr>
 
-<h3>MY JOURNEY</h3>
-I really enjoyed making this game. It was very difficult because I was hit with many challenges along the way. Through it all, I am happy to see the vision of making this game comes to fruition. 
+<h3>MY struggles</h3>
+<li>I struggled alot with typos which meant errors popping up on my page and haven't to pinpoint exactly where was hell.</li>
+<li>I also had an issue with having my resume pop up on my resume page. for some reasons, it didn't work.</li>
+<li>I also had issues converting my React app to a live webpage for anyone to connect to.</li>
 
 
