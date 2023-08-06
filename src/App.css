@@ -160,7 +160,6 @@ body {
   justify-content: space-between;
 }
 
-
 .tkimg {
   height: 100px;
   width: 100px;
@@ -184,6 +183,25 @@ body {
   margin-bottom: 16px; */
 }
 
+/* .projWrapper {
+  display: flex;
+  align-items: center;
+} */
+@keyframes Title {
+  from {
+    color: aqua;
+  }
+  to {
+    color: rgba(54, 22, 184, 0.87);
+  }
+}
+
+.Title {
+  animation: Title 2s 5s infinite;
+}
+
+
+
 .project {
   border: double red;
   height: 28vh;
@@ -193,18 +211,15 @@ body {
   align-items: start;
   color: white;
   margin-top: 0;
-
 }
 
 .pname {
   color: red;
-  font-family: 'roboto';
+  font-family: "roboto";
   font-weight: bolder;
   font-size: 20px;
 }
 
 .pdesc {
-  
-  text-align: left; 
+  text-align: left;
 }
-
