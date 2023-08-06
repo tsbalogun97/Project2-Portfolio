@@ -49,9 +49,9 @@ This website helped how to utilize Marquee tag in my Porfolio https://way2tutori
 
 <h3>MY STRUGGLES</h3>
 <li>I struggled alot with typos which meant errors popping up on my page and having to pinpoint exactly where was hell.</li>
-<li>I also had an issue with my resume popping up on my resume page. For some reasons, it didn't work, only to realize that i  didn't import it in the app.js.</li>
+<li>I also had issues with my resume popping up on my resume page. For some reasons, it didn't work, only to realize that i didn't import it in the App.js.</li>
 <li>I also had issues converting my React app to a live webpage for anyone to connect to.</li>
-<li> It took me hours to figure out what was wrong with my code when i was trying to upload my git Api to display my top 3 projects.</li>
+<li> It took me hours to figure out what was wrong with my code when i was trying to have specific parts of my git Api to display my top 3 projects.</li>
 
 <hr>
 
