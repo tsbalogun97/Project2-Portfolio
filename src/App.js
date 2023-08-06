@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import InfoPageNav from './pages/InfoPageNav';
 import Technology from './pages/Technology';
 import Resume from './pages/Resume';
+import ProjectLoading from './pages/ProjectLoading';
 
 
 
@@ -24,6 +25,7 @@ function App() {
       <Route path='/technology' element={<Technology/>}/>
       <Route path='/info' element={<MyInfoPage/>}/>
       <Route path='/resume' element={<Resume/>}/>
+      <Route path='/projects' element={<ProjectLoading/>}/>
       </Routes>
       <Footer/>
 
