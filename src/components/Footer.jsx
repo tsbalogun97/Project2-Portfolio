@@ -5,7 +5,6 @@ import { useState } from "react";
 import footerimg from "../Pictures/footer.jpg";
 import Marquee from "react-fast-marquee";
 
-
 function Footer() {
   let quoteUrl = "https://type.fit/api/quotes";
   const [quote, setQuote] = useState([]);
@@ -33,19 +32,17 @@ function Footer() {
       {/* <h1>Footer</h1> */}
       {quote.map((q, i) => {
         // this is where we would make the key value pair that's going to become our props in order to give it a key like a way to identify it.
-        let author = q.author.split(",")
+        let author = q.author.split(",");
         return (
           <div className="Fwrapper" key={i}>
             <div className="qtxt">{q.text}</div>
             <div className="author">{author[0]}</div>
-
           </div>
         );
       })}
       <Marquee>
         <p className="className"></p>
       </Marquee>
-      
     </div>
   );
 }

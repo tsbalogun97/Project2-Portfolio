@@ -27,17 +27,20 @@ function ProjectLoading() {
       projectName: "WK6MiniProject"
     },
     {
-      projectName: "WK6MiniProject"
+      projectName: "WK6MiniProject",
+      liveUrl: "http://loitrem.tplinkdns.com/temitope/miniproject",
     },
     {
-      projectName: "keyFramesMockUp"
+      projectName: "keyFramesMockUp",
+      liveUrl: "http://loitrem.tplinkdns.com/temitope/keyframes",
     },
     {
-      projectName: "MovieApi"
+      projectName: "MovieApi",
+      liveUrl: "http://loitrem.tplinkdns.com/temitope/movieapp",
     },
     {
       projectName: "TheDartGame",
-      liveUrl: "https://tsbalogun97.github.io/TheDartGame/"
+      liveUrl: "http://loitrem.tplinkdns.com/temitope/dartgame"
     },
   ];
 

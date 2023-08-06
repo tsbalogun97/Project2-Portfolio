@@ -27,6 +27,7 @@ function App() {
       <Route path='/resume' element={<Resume/>}/>
       <Route path='/projects' element={<ProjectLoading/>}/>
       </Routes>
+      
       <Footer/>
 
     </div>

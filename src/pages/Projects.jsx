@@ -16,6 +16,9 @@ function Projects(props) {
         <div className="purl">
           <a href={props.data[1].Url}> click here to GithubRepo</a>
         </div>
+        <div className="purl">
+          <a href={props.data[1].liveUrl}> click here</a>
+        </div>
       </div>
       <div className="project">
         <div className="pname">{props.data[2].projectName}</div>
@@ -24,6 +27,9 @@ function Projects(props) {
 
         <div className="purl">
           <a href={props.data[2].Url}> click here to GithubRepo</a>
+        </div>
+        <div className="purl">
+          <a href={props.data[2].liveUrl}> click here</a>
         </div>
       </div>
       <div className="project">
@@ -34,6 +40,9 @@ function Projects(props) {
         <div className="purl">
           <a href={props.data[3].Url}> click here to GithubRepo</a>
         </div>
+        <div className="purl">
+          <a href={props.data[3].liveUrl}> click here</a>
+        </div>
       </div>
       <div className="project">
         <div className="pname">{props.data[4].projectName}</div>
@@ -42,6 +51,9 @@ function Projects(props) {
 
         <div className="purl">
           <a href={props.data[4].Url}> click here to GithubRepo</a>
+        </div>
+        <div className="purl">
+          <a href={props.data[4].liveUrl}> click here</a>
         </div>
       </div>
     </div>
