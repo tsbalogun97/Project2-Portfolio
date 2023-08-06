@@ -42,7 +42,7 @@ https://github.com/tsbalogun97/tsbalogun97.github.io.git
 This is a link to a website that inspired me to  add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
 
 
-This utilize Marquee tag in my Porfolio https://way2tutorial.com/html/html_marquee_image.php/
+This website also showed me how Marquee tag works https://way2tutorial.com/html/html_marquee_image.php/
 
 
 <hr>
