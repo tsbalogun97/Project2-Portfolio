@@ -36,7 +36,7 @@ Give a ⭐️ if you like this project!
 <!-- <h3>LINK TO REPO</h3> -->
 <!-- https://github.com/tsbalogun97/tsbalogun97.github.io.git -->
 
-<hr>
+
 
 <h3>CREDITS</h3>
 This is a link to a website that inspired me to  add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
