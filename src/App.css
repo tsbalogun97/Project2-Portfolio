@@ -176,17 +176,11 @@ body {
 
 .resumeE {
   height: 100%;
-  /* width: 100vw; */
   border: double 5px red;
   overflow-y: scroll;
-  /* margin-top: 16px;
-  margin-bottom: 16px; */
+  margin-top: 25px;
 }
 
-/* .projWrapper {
-  display: flex;
-  align-items: center;
-} */
 @keyframes Title {
   from {
     color: aqua;
@@ -200,7 +194,11 @@ body {
   animation: Title 2s 5s infinite;
 }
 
-
+.projWrapper {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .project {
   border: double red;
@@ -215,11 +213,16 @@ body {
 
 .pname {
   color: red;
-  font-family: "roboto";
+  font-family: "Roboto";
   font-weight: bolder;
   font-size: 20px;
 }
 
 .pdesc {
   text-align: left;
+  font-family: "gill sans";
+  font-weight: bold;
+}
+.purl {
+  color: white;
 }
