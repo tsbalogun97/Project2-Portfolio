@@ -57,4 +57,7 @@ This website helped how to utilize Marquee tag in my Porfolio https://way2tutori
 
 <h3>Installation Instructions</h3>
 In the project directory, you can run:
+<h3>npm start</h3>
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
