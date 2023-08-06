@@ -55,7 +55,7 @@ This website helped how to utilize Marquee tag in my Porfolio https://way2tutori
 
 <hr>
 
-<h3>Installation Instructions</h3>
+<h1 align="center">Installation Instructions</h1>
 In the project directory, you can run:
 
 <h3>npm start</h3>
@@ -84,6 +84,14 @@ If you aren't satisfied with the build tool and configuration choices, you can e
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+<h3>Learn More</3>
+You can learn more in the Create React App documentation.
+
+To learn React, check out the React documentation.
+
+
+
 
 
 
