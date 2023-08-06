@@ -53,3 +53,8 @@ This website helped how to utilize Marquee tag in my Porfolio https://way2tutori
 <li>I also had issues converting my React app to a live webpage for anyone to connect to.</li>
 <li> It took me hours to figure out what was wrong with my code when i was trying to upload my git Api to display my top 3 projects.</li>
 
+<hr>
+
+<h3>Installation Instructions</h3>
+In the project directory, you can run:
+
