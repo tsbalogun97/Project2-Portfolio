@@ -33,8 +33,8 @@ Give a ⭐️ if you like this project!
 
 <hr>
 
-<h3>LINK TO REPO</h3>
-https://github.com/tsbalogun97/tsbalogun97.github.io.git
+<!-- <h3>LINK TO REPO</h3> -->
+<!-- https://github.com/tsbalogun97/tsbalogun97.github.io.git -->
 
 <hr>
 
