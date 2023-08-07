@@ -6,7 +6,9 @@ function ContactInfo() {
   return (
     <div className="cntInfoWrapp">
       <div className="phone">
-        
+        <div>
+          <img src="https://cdn.dribbble.com/users/3873964/screenshots/14216267/media/fe34f0470ef7899cc9594a8c9f3f2cec.gif" className="contgif" alt="" />
+        </div>
       <div className="phonewrapper">
         <div className="contactlistPhoneImg">
           <img className="phoneimg" src={phoneimg} alt="" />
@@ -23,6 +25,9 @@ function ContactInfo() {
           <h4>tsbalogun97@gmail.com</h4>
         </div>
       </div>
+        {/* <div>
+          <img src="https://wallpaperaccess.com/full/5927911.gif" alt="" className="contgif " />
+        </div> */}
       </div>
     </div>
   );
