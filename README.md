@@ -14,16 +14,14 @@ As I reflect upon graduating from Perscholas Software engineering Bootcamp, I ca
 <hr>
 
 <h3>THE APPROACH TAKEN</h3>
-I wanted to build an App that is simple and user-friendly. I also wanted my page to not only talk about me but also include inspirational quotes for my users to read. 
+I wanted to build an App that is simple and user-friendly. I also wanted my page to not only talk about me but also include inspirational quotes for my users to read.
 
 <hr>
-
 
 <h3>FUTURE UPDATES</h3>
 My portfolio is still developing; meaning more robust features will be added:
 <li>I will add more background keyframes to the pages especially in the main page.</li> 
-<li>I will add perhaps an audio playing in the background.</li> 
-
+<li>I will add perhaps an audio playing in the background.</li>
 
 <hr>
 
@@ -33,20 +31,16 @@ Give a ⭐️ if you like this project!
 
 <hr>
 
-<!-- <h3>LINK TO REPO</h3> -->
-<!-- https://github.com/tsbalogun97/tsbalogun97.github.io.git -->
-
-
-
-<h3>CREDITS</h3>
-This is a link to a website that inspired me to  add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
-
 <h3>API USED</h3>>
 <li>github api</li>
 <li>Type.fit api</li>
 
-This website also showed me how Marquee tag works https://way2tutorial.com/html/html_marquee_image.php/
+<hr>
 
+<h3>CREDITS</h3>
+This is a link to a website that inspired me to  add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/
+
+This website also showed me how Marquee tag works https://way2tutorial.com/html/html_marquee_image.php/
 
 <hr>
 
@@ -92,13 +86,3 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
-
-
-
-
-
-
-
-
-
-
