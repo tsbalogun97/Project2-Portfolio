@@ -41,6 +41,9 @@ Give a ⭐️ if you like this project!
 <h3>CREDITS</h3>
 This is a link to a website that inspired me to  add Marquee tag to my technology page  https://reactjsexample.com/a-silky-smooth-marquee-with-react/ 
 
+<h3>API USED</h3>>
+<li>github api</li>
+<li>Type.fit api</li>
 
 This website also showed me how Marquee tag works https://way2tutorial.com/html/html_marquee_image.php/
 
