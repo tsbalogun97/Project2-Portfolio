@@ -42,10 +42,10 @@ body {
   /* padding-top: 10px; */
   padding-bottom: 10px;
   box-shadow: 0px 0px 25px blue, inset 0px 0px 25px blue;
-  color: navy;
+  color: white;
   /* border: double white; */
   background-color: navy;
-  background-image: url('https://plus.unsplash.com/premium_photo-1670793631242-4813c0dbe5ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80');
+  background-image: url('https://images.unsplash.com/photo-1579267217516-b73084bd79a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGJsdWUlMjBiYWNrZ3JvdW5kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60');
 }
 
 .footer {
