@@ -2,7 +2,6 @@ import React from "react";
 import Header from "../components/Header";
 import AboutMe from "../components/AboutMe";
 import { Link } from "react-router-dom";
-// import Footer from '../components/Footer';
 
 function MainPage() {
   return (
