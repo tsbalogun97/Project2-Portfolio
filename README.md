@@ -31,7 +31,7 @@ Give a ⭐️ if you like this project!
 
 <hr>
 
-<h3>API USED</h3>>
+<h3>API USED</h3>
 <li>github api</li>
 <li>Type.fit api</li>
 
